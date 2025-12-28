@@ -1,0 +1,4 @@
+pandas==2.3.3
+ortools==9.14.6206
+xlsxwriter==3.2.9
+streamlit==1.52.2
