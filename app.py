@@ -11,7 +11,7 @@ st.set_page_config(page_title="Gerador de Escala de Residentes", layout="wide")
 
 # --- ESPAÇO PARA IMAGEM EXTERNA ---
 # Substitua a URL abaixo pela URL da imagem do seu hospital ou logo
-LOGO_URL = "assets\logo_santa_casa.png"
+LOGO_URL = "assets/logo_santa_casa.png"
 st.sidebar.image(LOGO_URL)
 
 # --- INTERFACE STREAMLIT ---
